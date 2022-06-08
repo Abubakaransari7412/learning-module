@@ -1,0 +1,5 @@
+#here we add java learning modules
+#code are here
+#java arrays
+
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
